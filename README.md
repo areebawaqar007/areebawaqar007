@@ -1,7 +1,7 @@
 
 # Hi, I'm Areeba Waqar 👋
 
-### Computer Science Graduate | Full Stack MERN Developer
+### Software Engineer | Full Stack MERN Developer
 
 I'm a Computer Science graduate with a strong interest in full stack web development. I enjoy building practical applications and learning how frontend, backend, databases, and cloud services work together.
 
