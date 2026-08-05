@@ -1,4 +1,3 @@
-Absolutely. I’d add both sections without making the profile too crowded. Here is your updated full README with **tech stack badges** and a **contribution streak**:
 
 # Hi, I'm Areeba Waqar 👋
 
