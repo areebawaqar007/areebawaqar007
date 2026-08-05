@@ -31,6 +31,12 @@ I'm a Computer Science graduate with a strong interest in full stack web develop
 * Deployment & Production Configuration
 * Problem Solving & Debugging
 
+### 💼 Experience
+
+**AI Engineering Fellow | DevWeekends**
+
+Currently participating in the DevWeekends Fellowship, gaining hands-on experience through project-based learning in AI engineering and software development. Building practical projects while strengthening skills in programming, problem solving, and full stack development.
+
 ## 🚀 Featured Project
 
 ### Nestora
