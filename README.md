@@ -5,14 +5,14 @@
 
 I'm a Computer Science graduate with a strong interest in full stack web development. I enjoy building practical applications and learning how frontend, backend, databases, and cloud services work together.
 
-💻 Tech Stack
+### 💻 Tech Stack
 
-Frontend: React.js, JavaScript, HTML, CSS, Tailwind CSS
-Backend: Node.js, Express.js, REST APIs
-Database: MongoDB, Mongoose, MySQL
-Authentication: JWT, Firebase Authentication
-State Management: Redux Toolkit, Redux Persist
-Tools & Services: Git, GitHub, Postman, Cloudinary, Vercel
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, Mongoose, MySQL
+**Authentication:** JWT, Firebase Authentication
+**State Management:** Redux Toolkit, Redux Persist
+**Tools & Services:** Git, GitHub, Postman, Cloudinary, Vercel
 
 
 ### 🧠 Core Competencies
@@ -32,7 +32,7 @@ Tools & Services: Git, GitHub, Postman, Cloudinary, Vercel
 
 Nestora | Live Demo | GitHub Repository
 
-A full stack real estate marketplace built with the MERN stack featuring authentication, Google OAuth, property listings, search, image uploads, user profiles, and deployment with Vercel.
+A full stack real estate marketplace built with the MERN stack, featuring secure authentication, Google OAuth, property listings, search and filtering, image uploads with Cloudinary, user profile management, landlord contact information, and deployment with Vercel.
 
 ### 🔥 GitHub Contribution Streak
 
