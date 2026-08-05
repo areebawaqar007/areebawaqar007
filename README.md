@@ -39,11 +39,6 @@ I'm a Computer Science graduate with a strong interest in full stack web develop
 
 A full stack real estate marketplace built with the MERN stack, featuring secure authentication, Google OAuth, property listings, search and filtering, image uploads with Cloudinary, user profile management, landlord contact information, and deployment with Vercel.
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebawaqar007" alt="GitHub Contribution Streak" />
-</p>
 
 ## 📚 Currently Learning
 
