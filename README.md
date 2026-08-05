@@ -5,12 +5,50 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Areeba Waqar 👋
+
+### Computer Science Graduate | Full Stack MERN Developer
+
+I'm a Computer Science graduate with a strong interest in full stack web development. I enjoy building practical applications and learning how frontend, backend, databases, and cloud services work together.
+
+### 💻 Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** MongoDB, Mongoose, MySQL
+**Authentication:** JWT, Firebase Authentication
+**State Management:** Redux Toolkit, Redux Persist
+**Tools & Services:** Git, GitHub, Postman, Cloudinary, Vercel
+
+### 🧠 Core Competencies
+
+* Full Stack Web Development
+* MERN Stack Development
+* REST API Development
+* Authentication & Authorization
+* Database Design & Management
+* Responsive UI Development
+* API Testing & Debugging
+* Git & GitHub
+* Deployment & Production Configuration
+* Problem Solving & Debugging
+
+### 🚀 Featured Project
+
+**Nestora**
+
+A full stack real estate marketplace built with the MERN stack featuring authentication, Google OAuth, property listings, search, image uploads, user profiles, and deployment with Vercel.
+
+### 📚 Currently Learning
+
+* Advanced MERN Stack Development
+* Data Structures & Algorithms
+* Backend Development
+* Building and deploying production-ready applications
+
+### 📫 Connect With Me
+
+**GitHub:** [@areebawaqar007](https://github.com/areebawaqar007)
+
+**LinkedIn:** [Areeba Waqar](https://www.linkedin.com/in/areebawaqar1/)
+
