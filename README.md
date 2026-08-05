@@ -7,12 +7,12 @@ I'm a Computer Science graduate with a strong interest in full stack web develop
 
 ### 💻 Tech Stack
 
-**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs
-**Database:** MongoDB, Mongoose, MySQL
-**Authentication:** JWT, Firebase Authentication
-**State Management:** Redux Toolkit, Redux Persist
-**Tools & Services:** Git, GitHub, Postman, Cloudinary, Vercel
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS 
+**Backend:** Node.js, Express.js, REST APIs 
+**Database:** MongoDB, Mongoose, MySQL 
+**Authentication:** JWT, Firebase Authentication 
+**State Management:** Redux Toolkit, Redux Persist  
+**Tools & Services:** Git, GitHub, Postman, Cloudinary, Vercel  
 
 
 ### 🧠 Core Competencies
