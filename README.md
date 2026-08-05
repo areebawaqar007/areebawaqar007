@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**areebawaqar007/areebawaqar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Absolutely. I’d add both sections without making the profile too crowded. Here is your updated full README with **tech stack badges** and a **contribution streak**:
 
 # Hi, I'm Areeba Waqar 👋
 
@@ -19,6 +14,12 @@ I'm a Computer Science graduate with a strong interest in full stack web develop
 **Authentication:** JWT, Firebase Authentication
 **State Management:** Redux Toolkit, Redux Persist
 **Tools & Services:** Git, GitHub, Postman, Cloudinary, Vercel
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,nodejs,express,mongodb,mysql,redux,firebase,git,github,postman,vercel" />
+</p>
 
 ### 🧠 Core Competencies
 
@@ -39,6 +40,12 @@ I'm a Computer Science graduate with a strong interest in full stack web develop
 
 A full stack real estate marketplace built with the MERN stack featuring authentication, Google OAuth, property listings, search, image uploads, user profiles, and deployment with Vercel.
 
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=areebawaqar007" alt="GitHub Contribution Streak" />
+</p>
+
 ### 📚 Currently Learning
 
 * Advanced MERN Stack Development
@@ -49,6 +56,5 @@ A full stack real estate marketplace built with the MERN stack featuring authent
 ### 📫 Connect With Me
 
 **GitHub:** [@areebawaqar007](https://github.com/areebawaqar007)
-
+**Email:** [your-email@example.com](areebawaqar007@gmail.com)
 **LinkedIn:** [Areeba Waqar](https://www.linkedin.com/in/areebawaqar1/)
-
